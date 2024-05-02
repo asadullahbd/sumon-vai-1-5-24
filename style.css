@@ -83,16 +83,13 @@
         background-color: rgba(0,0,0,0.9);
         transition: 0.3s all;
     }
-
-    .container nav ul li:first-child{
-        display: block;
-    }
     
     #container-list ul li i{
         color: #fff;
         position: absolute;
         top: 1rem;
         right: 1rem;
+        display: block;
     }
 
     #container-list ul li a{
